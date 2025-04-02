@@ -1,4 +1,4 @@
-# Data Pulse - Streaming With TCP Socket, Apache Spark, OpenAI LLM, Kafka and Elasticsearch | End-to-End Data Engineering Project
+# Data Pulse - Streaming With TCP Socket, Apache Spark, OpenAI LLM, Kafka and Elasticsearch 
 
 ## Table of Contents
 - [Introduction](#introduction)
