@@ -35,7 +35,7 @@ The project is designed with the following components:
 
 ## Technologies
 
-- Python
+- Python 3
 - TCP/IP
 - Confluent Kafka
 - Apache Spark
