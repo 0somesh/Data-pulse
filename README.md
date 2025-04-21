@@ -12,8 +12,6 @@
 
 This project serves as a comprehensive guide to building an end-to-end data engineering pipeline using TCP/IP Socket, Apache Spark, OpenAI LLM, Kafka and Elasticsearch. It covers each stage from data acquisition, processing, sentiment analysis with ChatGPT, production to kafka topic and connection to elasticsearch.
 
-
-
 The project is designed with the following components:
 
 - **Data Source**: We use `yelp.com` dataset for our pipeline.
@@ -35,7 +33,7 @@ The project is designed with the following components:
 
 ## Technologies
 
-- Python 3
+- Python3
 - TCP/IP
 - Confluent Kafka
 - Apache Spark
