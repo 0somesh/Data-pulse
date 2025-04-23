@@ -24,7 +24,7 @@ The project is designed with the following components:
 
 ## What You'll Learn
 
-- Setting up data pipeline with TCP/IP 
+- Setting up data pipeline with TCP/IP.
 - Real-time data streaming with Apache Kafka
 - Data processing techniques with Apache Spark
 - Realtime sentiment analysis with OpenAI ChatGPT
